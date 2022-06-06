@@ -1,0 +1,1 @@
+const t={key:"v-fdf804b0",path:"/usage/Initialization/",title:"Initialization",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1654502145e3,contributors:[{name:"\u4F59\u8BD7\u971E",email:"renae@moyoung.com",commits:1}]},filePathRelative:"usage/Initialization/README.md"};export{t as data};

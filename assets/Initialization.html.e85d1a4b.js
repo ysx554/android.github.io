@@ -1,0 +1,1 @@
+import{_ as e,o as a,c as t,b as i,d as n}from"./app.03e2d741.js";const o={},r=i("h1",{id:"initialization",tabindex:"-1"},[i("a",{class:"header-anchor",href:"#initialization","aria-hidden":"true"},"#"),n(" Initialization")],-1),c=[r];function s(_,l){return a(),t("div",null,c)}var h=e(o,[["render",s],["__file","Initialization.html.vue"]]);export{h as default};
