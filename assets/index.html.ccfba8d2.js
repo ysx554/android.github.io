@@ -1,0 +1,1 @@
+const e={key:"v-11058204",path:"/usage/classicBluetoothAddress/",title:"Classic Bluetooth address",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1654586739e3,contributors:[{name:"\u4F59\u8BD7\u971E",email:"renae@moyoung.com",commits:1}]},filePathRelative:"usage/classicBluetoothAddress/README.md"};export{e as data};

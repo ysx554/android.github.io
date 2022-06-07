@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"Detailed usage document",lang:"en-US",frontmatter:{home:!0,heroText:"AndoidSDK"},excerpt:"",headers:[],git:{updatedTime:1654586739e3,contributors:[{name:"\u4F59\u8BD7\u971E",email:"renae@moyoung.com",commits:2}]},filePathRelative:"README.md"};export{e as data};
