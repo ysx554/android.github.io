@@ -1,0 +1,1 @@
+const e={key:"v-632f3902",path:"/usage/goalSteps/",title:"Goal steps",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Sets goal steps",slug:"sets-goal-steps",children:[]},{level:2,title:"Gets goal steps",slug:"gets-goal-steps",children:[]}],git:{updatedTime:1654578527e3},filePathRelative:"usage/goalSteps/README.md"};export{e as data};

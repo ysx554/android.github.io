@@ -1,0 +1,1 @@
+const t={key:"v-3547dd72",path:"/usage/shutDown/",title:"Shut down",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1654589513e3},filePathRelative:"usage/shutDown/README.md"};export{t as data};

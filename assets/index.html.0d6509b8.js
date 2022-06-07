@@ -1,0 +1,1 @@
+const e={key:"v-2d91e692",path:"/usage/brightness/",title:"Brightness< Only android support >",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Sets brightness",slug:"sets-brightness",children:[]},{level:2,title:"Gets brightness",slug:"gets-brightness",children:[]}],git:{updatedTime:1654586739e3},filePathRelative:"usage/brightness/README.md"};export{e as data};
