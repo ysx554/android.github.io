@@ -1,0 +1,1 @@
+const e={key:"v-8daa1a0e",path:"/",title:"Detailed usage document",lang:"en-US",frontmatter:{home:!1,heroText:"MoYoung Watch Flutter SDK"},excerpt:"",headers:[],git:{updatedTime:1654595373e3},filePathRelative:"README.md"};export{e as data};
