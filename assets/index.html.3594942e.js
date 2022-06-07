@@ -1,0 +1,2 @@
+import{_ as e,o as t,c as n,d as a}from"./app.8db8152e.js";const d={},s=a(`<h1 id="shut-down" tabindex="-1"><a class="header-anchor" href="#shut-down" aria-hidden="true">#</a> Shut down</h1><div class="language-text ext-text line-numbers-mode"><pre class="language-text"><code> _blePlugin.shutDown;
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div></div></div>`,2),i=[s];function r(c,o){return t(),n("div",null,i)}var u=e(d,[["render",r],["__file","index.html.vue"]]);export{u as default};
