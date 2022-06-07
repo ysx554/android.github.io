@@ -1,0 +1,1 @@
+const e={key:"v-e19fd05e",path:"/usage/findTheWatch/",title:"Find the watch",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1654578527e3,contributors:[{name:"\u4F59\u8BD7\u971E",email:"renae@moyoung.com",commits:1}]},filePathRelative:"usage/findTheWatch/README.md"};export{e as data};
