@@ -1,0 +1,1 @@
+const e={key:"v-d2ed6072",path:"/usage/displayTime/",title:"38 Display Time",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Sets display time",slug:"sets-display-time",children:[]},{level:2,title:"Gets display time",slug:"gets-display-time",children:[]}],git:{updatedTime:1654596206e3},filePathRelative:"usage/displayTime/README.md"};export{e as data};

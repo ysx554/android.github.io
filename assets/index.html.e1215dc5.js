@@ -1,0 +1,1 @@
+const e={key:"v-bdb8d7ac",path:"/usage/mobilePhone/",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"24 Mobile Phone Related Operations",slug:"_24-mobile-phone-related-operations",children:[]}],git:{updatedTime:1654596206e3},filePathRelative:"usage/mobilePhone/README.md"};export{e as data};

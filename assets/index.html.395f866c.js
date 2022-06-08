@@ -1,0 +1,1 @@
+const t={key:"v-1d6c4475",path:"/usage/unitSystem/",title:"Unit System",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Sets the unit system",slug:"sets-the-unit-system",children:[]},{level:2,title:"Gets the unit system",slug:"gets-the-unit-system",children:[]}],git:{updatedTime:1654596206e3},filePathRelative:"usage/unitSystem/README.md"};export{t as data};

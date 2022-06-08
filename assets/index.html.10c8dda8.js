@@ -1,0 +1,1 @@
+const t={key:"v-0415cb58",path:"/usage/tapToWake/",title:"Tap To Wake",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Gets tap to wake state",slug:"gets-tap-to-wake-state",children:[]},{level:2,title:"Sets tap to wake state",slug:"sets-tap-to-wake-state",children:[]}],git:{updatedTime:1654596206e3},filePathRelative:"usage/tapToWake/README.md"};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-fa13f5a2",path:"/usage/userInfo/",title:"UserInfo",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Sets userInfo",slug:"sets-userinfo",children:[]},{level:2,title:"Sets step length",slug:"sets-step-length",children:[]}],git:{updatedTime:1654596206e3},filePathRelative:"usage/userInfo/README.md"};export{e as data};
