@@ -1,0 +1,1 @@
+import{_ as a,o as t,c,a as e,d as n}from"./app.56cccd15.js";const o={},r=e("h1",{id:"change-log",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#change-log","aria-hidden":"true"},"#"),n(" Change Log")],-1),s=[r];function d(_,h){return t(),c("div",null,s)}var l=a(o,[["render",d],["__file","index.html.vue"]]);export{l as default};
