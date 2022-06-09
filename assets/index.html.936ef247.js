@@ -1,0 +1,1 @@
+const e={key:"v-647b44d2",path:"/usage/log/",title:"Change Log",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1654741603e3},filePathRelative:"usage/log/README.md"};export{e as data};
