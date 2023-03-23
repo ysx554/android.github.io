@@ -1,0 +1,1 @@
+const e={key:"v-53fe1414",path:"/usage/protocolVersion/",title:"Protocol Version< Only android support >",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1654596206e3},filePathRelative:"usage/protocolVersion/README.md"};export{e as data};

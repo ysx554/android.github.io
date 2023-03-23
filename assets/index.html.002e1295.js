@@ -1,0 +1,1 @@
+const e={key:"v-2b43e831",path:"/usage/rssi/",title:"RSSI< Only android support >",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Sets RSSI listener",slug:"sets-rssi-listener",children:[]},{level:2,title:"Read the watch RSSI",slug:"read-the-watch-rssi",children:[]}],git:{updatedTime:1654589513e3},filePathRelative:"usage/rssi/README.md"};export{e as data};

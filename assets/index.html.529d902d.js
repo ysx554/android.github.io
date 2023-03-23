@@ -1,0 +1,1 @@
+const e={key:"v-e2750c7e",path:"/usage/findPhone/",title:"Find Phone",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Start find phone",slug:"start-find-phone",children:[]},{level:2,title:"End finding phone",slug:"end-finding-phone",children:[]}],git:{updatedTime:1654596206e3},filePathRelative:"usage/findPhone/README.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-8d00d55e",path:"/usage/setsLocalCity/",title:"",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Sets Local City",slug:"sets-local-city",children:[]}],git:{updatedTime:1654596206e3},filePathRelative:"usage/setsLocalCity/README.md"};export{e as data};
